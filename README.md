@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <strong>It's aaditya</strong>
+</p>
 
-<!--
-**aadityaincode/aadityaincode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```mermaid
+flowchart TD
+  A[WHY]
+  A --> B[am I boring?]
+  A --> C[am I fun?]
+  B --> D[because I code]
+  C --> D
+  D --> A
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
