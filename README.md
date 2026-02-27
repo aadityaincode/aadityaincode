@@ -27,9 +27,3 @@
   &nbsp;
   <a href="https://linkedin.com/in/aadityadhungana"><img src="https://img.shields.io/badge/Connect-0d1117?style=flat-square&logoColor=white" /></a>
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aadityaincode&color=888888&style=flat-square&label=visitors" />
-</p>
