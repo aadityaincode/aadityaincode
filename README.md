@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-A8B9CC.svg?style=flat-square&logo=c&logoColor=black" />
 </p>
 
 <br>
