@@ -22,7 +22,7 @@
 
 <br>
 <p align="center">
-  <a href="https://aadityaincode.github.io/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logoColor=white" /></a>
+  <a href="https://aadityaincode.dev/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logoColor=white" /></a>
   &nbsp;
   <a href="https://linkedin.com/in/aadityadhungana"><img src="https://img.shields.io/badge/Connect-0d1117?style=flat-square&logoColor=white" /></a>
 </p>
