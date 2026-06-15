@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=18&pause=9999999&color=888888&center=true&vCenter=true&width=435&duration=1500&lines=Systems+%C2%B7+Security+%C2%B7+Data+%C2%B7+AI" alt="Interests" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=18&pause=9999999&color=888888&center=true&vCenter=true&width=435&duration=1500&lines=Data+%C2%B7+AI+%C2%B7+Distributed+Systems" alt="Interests" />
 </p>
 
 <p align="center">
