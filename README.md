@@ -7,6 +7,12 @@
 </p>
 
 <p align="center">
+  <img src="olg.svg" height="40" alt="OLG" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=18&pause=9999999&color=148526&center=true&vCenter=true&width=435&duration=1500&lines=incoming+data+scientist+%40+olg" alt="Incoming Data Scientist @ OLG" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
