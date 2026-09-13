@@ -1,15 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=20&pause=1000&color=148526&center=true&vCenter=true&width=435&lines=it's+aaditya.;i+break+things+to+fix+them." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=20&pause=1000&color=148526&center=true&vCenter=true&width=435&lines=it's+aaditya.;i+break+things+to+fix+them." alt="typing svg" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=18&pause=9999999&color=888888&center=true&vCenter=true&width=435&duration=1500&lines=Data+%C2%B7+AI+%C2%B7+Distributed+Systems" alt="Interests" />
-</p>
-
-<p align="center">
-  <img src="olg.svg" height="40" alt="OLG" />
+  <img src="olg.svg" height="40" alt="olg" />
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=18&pause=9999999&color=148526&center=true&vCenter=true&width=435&duration=1500&lines=AI+%40+olg" alt="AI @ OLG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=18&pause=9999999&color=148526&center=true&vCenter=true&width=435&duration=1500&lines=ai+%40+olg" alt="ai @ olg" />
 </p>
 
 <p align="center">
@@ -28,7 +24,7 @@
 
 <br>
 <p align="center">
-  <a href="https://aadityaincode.dev/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logoColor=white" /></a>
+  <a href="https://aadityaincode.dev/"><img src="https://img.shields.io/badge/portfolio-0d1117?style=flat-square&logoColor=white" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/aadityadhungana"><img src="https://img.shields.io/badge/Connect-0d1117?style=flat-square&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aadityadhungana"><img src="https://img.shields.io/badge/connect-0d1117?style=flat-square&logoColor=white" /></a>
 </p>
