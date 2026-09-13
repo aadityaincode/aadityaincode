@@ -9,7 +9,7 @@
 <p align="center">
   <img src="olg.svg" height="40" alt="OLG" />
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=18&pause=9999999&color=148526&center=true&vCenter=true&width=435&duration=1500&lines=incoming+data+scientist+%40+olg" alt="Incoming Data Scientist @ OLG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=18&pause=9999999&color=148526&center=true&vCenter=true&width=435&duration=1500&lines=AI+%40+olg" alt="AI @ OLG" />
 </p>
 
 <p align="center">
