@@ -11,15 +11,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/fastapi-005571?style=flat-square&logo=fastapi" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-A8B9CC.svg?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/fastapi-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/microsoft_azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
 
 <br>
